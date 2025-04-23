@@ -7,3 +7,4 @@ Porsche
   Bugatti
   moto
   TVS
+  GTC
